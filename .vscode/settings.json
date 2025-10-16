@@ -1,0 +1,4 @@
+{
+    "jdk.telemetry.enabled": true,
+    "redhat.telemetry.enabled": true
+}
